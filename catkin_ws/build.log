@@ -1,0 +1,20 @@
+/bin/sh: 1: ../catkin_generated/env_cached.sh: Permission denied
+make[2]: *** [ball_chaser/CMakeFiles/_ball_chaser_generate_messages_check_deps_DriveToTarget.dir/build.make:57: ball_chaser/CMakeFiles/_ball_chaser_generate_messages_check_deps_DriveToTarget] Error 126
+make[1]: *** [CMakeFiles/Makefile2:1584: ball_chaser/CMakeFiles/_ball_chaser_generate_messages_check_deps_DriveToTarget.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+make: *** [Makefile:141: all] Error 2
+Base path: /home/ubuntu/catkin_ws
+Source space: /home/ubuntu/catkin_ws/src
+Build space: /home/ubuntu/catkin_ws/build
+Devel space: /home/ubuntu/catkin_ws/devel
+Install space: /home/ubuntu/catkin_ws/install
+####
+#### Running command: "make cmake_check_build_system" in "/home/ubuntu/catkin_ws/build"
+####
+####
+#### Running command: "make -j4 -l4" in "/home/ubuntu/catkin_ws/build"
+####
+Invoking "make -j4 -l4" failed
