@@ -8,8 +8,8 @@ A ROS and Gazebo simulation project in which a differential-drive robot uses its
 <img width="1858" height="830" alt="image" src="https://github.com/user-attachments/assets/016ce791-37d7-4fbd-9961-8ae5491a6c7e" />
 <img width="1841" height="845" alt="image" src="https://github.com/user-attachments/assets/fc4f4659-e014-4d8a-8aec-bff129f85779" />
 <img width="1842" height="840" alt="image" src="https://github.com/user-attachments/assets/23bcd255-8bfe-4eb5-9aed-5dbb13688fab" />
-<img width="804" height="388" alt="image" src="https://github.com/user-attachments/assets/a693c82a-1629-46bd-9a3f-76a66c100a96" />
 <img width="2426" height="760" alt="image" src="https://github.com/user-attachments/assets/14ecb9ff-ce4f-4d90-aace-1785b8684e1a" />
+<img width="804" height="388" alt="image" src="https://github.com/user-attachments/assets/a693c82a-1629-46bd-9a3f-76a66c100a96" />
 
 ## Table of Contents
 
