@@ -2,7 +2,7 @@
 
 A ROS and Gazebo simulation project in which a differential-drive robot uses its onboard camera to detect a white ball and autonomously move toward it.
 
-## Table of Contents
+
 <img width="1846" height="842" alt="image" src="https://github.com/user-attachments/assets/17c00166-7e75-46fe-8bf5-48653797f778" />
 <img width="1874" height="834" alt="image" src="https://github.com/user-attachments/assets/6a5308a7-94f9-45ca-b4a7-a4ac9ea21e01" />
 <img width="1858" height="830" alt="image" src="https://github.com/user-attachments/assets/d0570b04-1db6-461c-a8b9-9e3880ea9890" />
@@ -13,6 +13,7 @@ A ROS and Gazebo simulation project in which a differential-drive robot uses its
 <img width="804" height="388" alt="image" src="https://github.com/user-attachments/assets/075efece-6191-4022-b1bc-f655f8d6cd5a" />
 <img width="2426" height="760" alt="image" src="https://github.com/user-attachments/assets/b4a9afda-5479-4654-ab2f-7791ea02c9ab" />
 
+## Table of Contents
 - [Project Overview](#project-overview)
 - [System Architecture](#system-architecture)
 - [Expected Behavior](#expected-behavior)
