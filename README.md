@@ -716,24 +716,6 @@ source devel/setup.bash
 
 Then stop and relaunch the modified node.
 
-## Success Checklist
-
-- [ ] The workspace builds without errors.
-- [ ] ROS can locate `my_robot`.
-- [ ] ROS can locate `ball_chaser`.
-- [ ] Gazebo launches the intended world.
-- [ ] The robot spawns upright and remains stable.
-- [ ] The antenna has been removed if it caused instability.
-- [ ] The camera publishes images.
-- [ ] The white ball is permanently saved in the world.
-- [ ] The white ball is visible in the camera image.
-- [ ] `drive_bot` provides the movement service.
-- [ ] `process_image` calls the movement service.
-- [ ] `/cmd_vel` receives velocity commands.
-- [ ] The robot turns toward the ball.
-- [ ] The robot moves forward when the ball is centered.
-- [ ] The robot stops when the ball is not visible.
-
 ## Shutdown
 
 Stop each launch process with:
